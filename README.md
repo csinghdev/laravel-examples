@@ -3,10 +3,15 @@ This application contains examples with screencasts explaining them. It is built
 
 Examples included:
 - Create Custom Artisan Command
+- Integration with Travis-CI
 
 ## Want to do it yourself?
 Here is the list of video tutorials you can follow to do it by yourself.
 
+- Integration with Travis-CI
+
+[![Integration with Travis-CI](https://img.youtube.com/vi/Xl1HMwaD3Mg/0.jpg)](https://www.youtube.com/watch?v=Xl1HMwaD3Mg)
+--
 - Create Custom Artisan Command
 
 [![Create Custom Artisan Command](https://img.youtube.com/vi/Ik927SLPTi0/0.jpg)](https://www.youtube.com/watch?v=Ik927SLPTi0)
